@@ -1,8 +1,8 @@
-package main;														// For Future Development: Allow user to quit while playing.
-import java.util.Scanner;											// Improve UI. Stats board breaks when game stats change from one to two digits.
-import java.util.Random;											// Optimize code. Make it shorter and reduce nesting if possible.
-import java.util.ArrayList;											// Set HP baseline to 0 (a.k.a. program doesn't display negative HP).
-import boards.*;													// Do not cram project in 2 days ever again. T-T
+package main;									// For Future Development: Allow user to quit while playing.
+import java.util.Scanner;							// Improve UI. Stats board breaks when game stats change from one to two digits.
+import java.util.Random;							// Optimize code. Make it shorter and reduce nesting if possible.
+import java.util.ArrayList;							// Set HP baseline to 0 (a.k.a. program doesn't display negative HP).
+import boards.*;								
 																			
 public class Main													
 {																	
